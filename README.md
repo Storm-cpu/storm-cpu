@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Hutech Univercity
 -->
 <img src = "https://github-readme-stats.vercel.app/api?username=storm-cpu&&show_icons=true&title_color=5094F0&icon_color=bb2acf&text_color=343434&bg_color=FFFFFF">
-<img src = "https://gph.is/g/4LLo70Q">
+<iframe src="https://giphy.com/embed/JAIUAn8HRq8yjEZb4U" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JAIUAn8HRq8yjEZb4U">via GIPHY</a></p>
