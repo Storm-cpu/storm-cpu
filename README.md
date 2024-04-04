@@ -1,13 +1,14 @@
-### Nice to meet you 👋
-
-<!--
-**storm-cpu/storm-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Be Solution
-- 🌱 I’m currently learning Hutech Univercity
--->
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Storm-cpu&&show_icons=true&title_color=16fced&icon_color=16fced&text_color=e605e7&bg_color=0D1117">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Storm-cpu&show_icons=true&theme=radical">
 </p>
+
+# Hello 👋, I'm [Your Name]!
+
+- 🔭 I'm currently working at [Company Name]
+- 🌱 I'm currently learning [Technology Name]
+- 👯 I'm looking to collaborate on [Project Name]
+- 🤔 I'm looking for help with [Technology Name]
+- 💬 Ask me about [Technology Name]
+- 📫 How to reach me: [email]
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: [Fun Fact]
